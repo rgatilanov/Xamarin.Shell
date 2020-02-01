@@ -9,6 +9,7 @@ using Xamarin.Forms.Xaml;
 
 namespace ShellMVVM.Controls
 {
+
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class FlyoutHeader : ContentView
     {

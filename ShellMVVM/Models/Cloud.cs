@@ -12,4 +12,5 @@ namespace ShellMVVM.Models
         public string ImageUrl { get; set; }
         public string Type { get; set; }
     }
+
 }

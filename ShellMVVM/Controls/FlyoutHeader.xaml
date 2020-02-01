@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="ShellMVVM.Controls.FlyoutHeader"
-  HeightRequest="200">
+            HeightRequest="200">
     <Grid BackgroundColor="Black">
         <Label Text="Cloud Computing" 
                TextColor="White" 
@@ -13,4 +13,5 @@
                HorizontalTextAlignment="Center"
                VerticalTextAlignment="Center" />
     </Grid>
+    
 </ContentView>
