@@ -13,7 +13,8 @@ namespace ShellMVVM
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
+            //DependencyService.Register<MockDataStore>();
+            DependencyService.Register<CloudData>();
             MainPage = new AppShell();
         }
 
