@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ShellMVVM\\ShellMVVM.iOS\\ShellMVVM.iOS.csproj",
+      "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.iOS\\ShellMVVM.iOS.csproj",
       "projectName": "ShellMVVM.iOS",
-      "projectPath": "G:\\ShellMVVM\\ShellMVVM.iOS\\ShellMVVM.iOS.csproj",
+      "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.iOS\\ShellMVVM.iOS.csproj",
       "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-      "outputPath": "G:\\ShellMVVM\\ShellMVVM.iOS\\obj\\",
+      "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1048,8 +1048,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj": {
-              "projectPath": "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj"
+            "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj": {
+              "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj"
             }
           }
         }

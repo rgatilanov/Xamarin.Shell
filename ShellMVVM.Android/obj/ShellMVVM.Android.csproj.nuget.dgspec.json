@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ShellMVVM\\ShellMVVM.Android\\ShellMVVM.Android.csproj": {}
+    "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.Android\\ShellMVVM.Android.csproj": {}
   },
   "projects": {
-    "G:\\ShellMVVM\\ShellMVVM.Android\\ShellMVVM.Android.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.Android\\ShellMVVM.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ShellMVVM\\ShellMVVM.Android\\ShellMVVM.Android.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.Android\\ShellMVVM.Android.csproj",
         "projectName": "ShellMVVM.Android",
-        "projectPath": "G:\\ShellMVVM\\ShellMVVM.Android\\ShellMVVM.Android.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.Android\\ShellMVVM.Android.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "G:\\ShellMVVM\\ShellMVVM.Android\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj": {
-                "projectPath": "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj"
+              "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj": {
+                "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj"
               }
             }
           }
@@ -55,14 +55,14 @@
         }
       }
     },
-    "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj",
         "projectName": "ShellMVVM",
-        "projectPath": "G:\\ShellMVVM\\ShellMVVM\\ShellMVVM.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\ShellMVVM.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "G:\\ShellMVVM\\ShellMVVM\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinShellGitHub\\ShellMVVM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
