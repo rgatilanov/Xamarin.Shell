@@ -14,6 +14,8 @@ namespace ShellMVVM.ViewModels
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
 
+        public IDataCloud<Cloud> DataCloud => DependencyService.Get<IDataCloud<Cloud>>();
+
         bool isBusy = false;
         public bool IsBusy
         {
