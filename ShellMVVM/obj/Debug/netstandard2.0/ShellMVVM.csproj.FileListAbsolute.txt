@@ -33,7 +33,6 @@ G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\bin\Debug\netstandard2.0\She
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\bin\Debug\netstandard2.0\ref\ShellMVVM.dll
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\bin\Debug\netstandard2.0\ShellMVVM.pdb
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\XamlC.stamp
-G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\ShellMVVM.csprojAssemblyReference.cache
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Controls\FlyoutHeader.xaml.g.cs
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Views\CloudChinaDetailPage.xaml.g.cs
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Views\CloudEUADetailPage.xaml.g.cs
