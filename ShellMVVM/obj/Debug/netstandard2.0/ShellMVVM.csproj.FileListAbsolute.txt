@@ -36,3 +36,4 @@ G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Xam
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Controls\FlyoutHeader.xaml.g.cs
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Views\CloudChinaDetailPage.xaml.g.cs
 G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\Views\CloudEUADetailPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinShellGitHub\ShellMVVM\obj\Debug\netstandard2.0\ShellMVVM.csprojAssemblyReference.cache
